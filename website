@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>Muhaba</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+
+  </head>
+  
+  <body>
+    <nav></nav>
+    
+  </header>
+
+     
+  <main>
+    
+    <h1>This is my very own website!</h1>
+    
+    
+      <p> Hi, I'm Muhaba and welcome to my cozy corner of the internet where I'll be displaying my personal projects and ideas
+      </p> 
+
+    <img src="assets/welcome to wonderland.png">
+  
+
+    </header>
+  </main>
+    
+  </body>
+</html>
